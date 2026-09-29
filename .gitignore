@@ -1,0 +1,20 @@
+# captures / local experiments
+captures/
+*.pcap
+*.pcapng
+*.csv
+*.npy
+*.npz
+*.bin
+*.log
+
+# build artifacts
+build/
+out/
+*.o
+*.ko
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
